@@ -1,0 +1,11 @@
+C:\Users\breno\source\repos\BotD\BotD\obj\Release\netcoreapp2.1\BotD.csprojAssemblyReference.cache
+C:\Users\breno\source\repos\BotD\BotD\obj\Release\netcoreapp2.1\BotD.csproj.CoreCompileInputs.cache
+C:\Users\breno\source\repos\BotD\BotD\obj\Release\netcoreapp2.1\BotD.AssemblyInfoInputs.cache
+C:\Users\breno\source\repos\BotD\BotD\obj\Release\netcoreapp2.1\BotD.AssemblyInfo.cs
+C:\Users\breno\source\repos\BotD\BotD\bin\Release\netcoreapp2.1\BotD.deps.json
+C:\Users\breno\source\repos\BotD\BotD\bin\Release\netcoreapp2.1\BotD.runtimeconfig.json
+C:\Users\breno\source\repos\BotD\BotD\bin\Release\netcoreapp2.1\BotD.runtimeconfig.dev.json
+C:\Users\breno\source\repos\BotD\BotD\bin\Release\netcoreapp2.1\BotD.dll
+C:\Users\breno\source\repos\BotD\BotD\bin\Release\netcoreapp2.1\BotD.pdb
+C:\Users\breno\source\repos\BotD\BotD\obj\Release\netcoreapp2.1\BotD.dll
+C:\Users\breno\source\repos\BotD\BotD\obj\Release\netcoreapp2.1\BotD.pdb

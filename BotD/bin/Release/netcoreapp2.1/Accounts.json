@@ -1,0 +1,364 @@
+[
+  {
+    "lastmsg": 624278320078389258,
+    "cargo": "🐲",
+    "Characterid": [
+      2305843009290317644,
+      2305843009261947854,
+      2305843009292134035,
+      2305843009276775517
+    ],
+    "DisplayName": "BrenoSlaz",
+    "BungieID": 4611686018443840502,
+    "DiscordID": 247810854580518912,
+    "PontosdeTriunfos": 67700,
+    "EstadodeAcao": 1,
+    "XP": 506,
+    "conclusões": {
+      "3333172150": 26,
+      "2693136600": 37,
+      "119944200": 27,
+      "3089205900": 42,
+      "809170886": 12,
+      "417231112": 11,
+      "3213556450": 4,
+      "2122313384": 26,
+      "548750096": 19
+    },
+    "Pvp": {
+      "kills": 11748.0,
+      "efficiency": 5.16,
+      "killsDeathsRatio": 3.83,
+      "precisionKills": 2712.0,
+      "longestKillSpree": 43.0,
+      "activitiesWon": 598.0
+    },
+    "Raid": {
+      "kills": 89901.0,
+      "efficiency": 49.1,
+      "longestSingleLife": 9312.0,
+      "precisionKills": 20228.0,
+      "longestKillSpree": 449.0
+    },
+    "Assaltos": {
+      "activitiesCleared": 468.0,
+      "fastestCompletionMs": 5.88,
+      "score": 3925126.0,
+      "longestKillSpree": 708.0
+    },
+    "AllPve": {
+      "heroicPublicEventsCompleted": 798.0
+    },
+    "Gambit": {
+      "kills": 9880.0,
+      "efficiency": 35.65,
+      "winLossRatio": 2.3600000000000003,
+      "precisionKills": 2533.0,
+      "invasionKills": 286.0,
+      "invaderKills": 274.0,
+      "motesDeposited": 8562.0
+    },
+    "TriunfosConcluídos": {
+      "4177910003": true,
+      "2648109757": false,
+      "1558682416": true,
+      "2422246593": false,
+      "2472579457": false,
+      "2422246592": false,
+      "851701008": true,
+      "1290451257": false,
+      "866465097": false,
+      "807845972": true,
+      "2182090828": true,
+      "2053985130": false,
+      "1883929036": true,
+      "2254764897": false,
+      "1754983323": true,
+      "1313291220": false,
+      "3369119720": false,
+      "3798931976": false,
+      "1693645129": true,
+      "2757681677": true,
+      "709854835": true,
+      "915055151": true,
+      "720205407": true,
+      "4239853304": false,
+      "2422246601": false,
+      "3798685639": false,
+      "2918198318": true,
+      "1783003007": false,
+      "1861568610": false,
+      "4109457230": false
+    }
+  },
+  {
+    "lastmsg": 0,
+    "cargo": "🐲",
+    "Characterid": [
+      2305843009278930458,
+      2305843009261757884,
+      2305843009261757885
+    ],
+    "DisplayName": "StormS4adow",
+    "BungieID": 4611686018431739207,
+    "DiscordID": 601939209594470400,
+    "PontosdeTriunfos": 56500,
+    "EstadodeAcao": 1,
+    "XP": 326,
+    "conclusões": {
+      "3333172150": 29,
+      "2693136600": 9,
+      "119944200": 0,
+      "3089205900": 2,
+      "809170886": 0,
+      "417231112": 1,
+      "3213556450": 2,
+      "2122313384": 32,
+      "548750096": 15
+    },
+    "Pvp": {
+      "kills": 8711.0,
+      "efficiency": 3.6799999999999997,
+      "killsDeathsRatio": 2.73,
+      "precisionKills": 2301.0,
+      "longestKillSpree": 34.0,
+      "activitiesWon": 433.0
+    },
+    "Raid": {
+      "kills": 34644.0,
+      "efficiency": 56.040000000000006,
+      "longestSingleLife": 9278.0,
+      "precisionKills": 8058.0,
+      "longestKillSpree": 384.0
+    },
+    "Assaltos": {
+      "activitiesCleared": 593.0,
+      "fastestCompletionMs": 2.9,
+      "score": 2304253.0,
+      "longestKillSpree": 560.0
+    },
+    "AllPve": {
+      "heroicPublicEventsCompleted": 583.0
+    },
+    "Gambit": {
+      "kills": 27692.0,
+      "efficiency": 40.879999999999995,
+      "winLossRatio": 2.61,
+      "precisionKills": 7109.0,
+      "invasionKills": 837.0,
+      "invaderKills": 475.0,
+      "motesDeposited": 20917.0
+    },
+    "TriunfosConcluídos": {
+      "4177910003": false,
+      "2648109757": false,
+      "1558682416": true,
+      "2422246593": false,
+      "2472579457": false,
+      "2422246592": false,
+      "851701008": false,
+      "1290451257": false,
+      "866465097": false,
+      "807845972": false,
+      "2182090828": false,
+      "2053985130": false,
+      "1883929036": true,
+      "2254764897": false,
+      "1754983323": false,
+      "1313291220": false,
+      "3369119720": false,
+      "3798931976": true,
+      "1693645129": false,
+      "2757681677": false,
+      "709854835": false,
+      "915055151": false,
+      "720205407": false,
+      "4239853304": false,
+      "2422246601": false,
+      "3798685639": false,
+      "2918198318": true,
+      "1783003007": false,
+      "1861568610": true,
+      "4109457230": false
+    }
+  },
+  {
+    "lastmsg": 0,
+    "cargo": "🌐",
+    "Characterid": [
+      2305843009299759465,
+      2305843009299759466,
+      2305843009299759467,
+      2305843009303474578
+    ],
+    "DisplayName": "Atire AquiS2",
+    "BungieID": 4611686018437368943,
+    "DiscordID": 340340364047155212,
+    "PontosdeTriunfos": 51350,
+    "EstadodeAcao": 1,
+    "XP": 217,
+    "conclusões": {
+      "3333172150": 30,
+      "2693136600": 10,
+      "119944200": 0,
+      "3089205900": 2,
+      "809170886": 0,
+      "417231112": 0,
+      "3213556450": 3,
+      "2122313384": 4,
+      "548750096": 10
+    },
+    "Pvp": {
+      "kills": 2775.0,
+      "efficiency": 4.51,
+      "killsDeathsRatio": 3.47,
+      "precisionKills": 958.0,
+      "longestKillSpree": 30.0,
+      "activitiesWon": 162.0
+    },
+    "Raid": {
+      "kills": 16920.0,
+      "efficiency": 49.660000000000004,
+      "longestSingleLife": 7993.0,
+      "precisionKills": 4442.0,
+      "longestKillSpree": 241.0
+    },
+    "Assaltos": {
+      "activitiesCleared": 344.0,
+      "fastestCompletionMs": 6.59,
+      "score": 3754140.0,
+      "longestKillSpree": 529.0
+    },
+    "AllPve": {
+      "heroicPublicEventsCompleted": 705.0
+    },
+    "Gambit": {
+      "kills": 3586.0,
+      "efficiency": 21.15,
+      "winLossRatio": 1.49,
+      "precisionKills": 970.0,
+      "invasionKills": 372.0,
+      "invaderKills": 105.0,
+      "motesDeposited": 3146.0
+    },
+    "TriunfosConcluídos": {
+      "4177910003": false,
+      "2648109757": false,
+      "1558682416": true,
+      "2422246593": false,
+      "2472579457": false,
+      "2422246592": false,
+      "851701008": false,
+      "1290451257": false,
+      "866465097": false,
+      "807845972": true,
+      "2182090828": false,
+      "2053985130": false,
+      "1883929036": true,
+      "2254764897": false,
+      "1754983323": false,
+      "1313291220": false,
+      "3369119720": false,
+      "3798931976": false,
+      "1693645129": false,
+      "2757681677": false,
+      "709854835": false,
+      "915055151": false,
+      "720205407": false,
+      "4239853304": false,
+      "2422246601": false,
+      "3798685639": true,
+      "2918198318": true,
+      "1783003007": false,
+      "1861568610": false,
+      "4109457230": false
+    }
+  },
+  {
+    "lastmsg": 0,
+    "cargo": null,
+    "Characterid": [],
+    "DisplayName": "Urbane LegendBR",
+    "BungieID": 4611686018455715332,
+    "DiscordID": 597882911710249010,
+    "PontosdeTriunfos": 0,
+    "EstadodeAcao": 1,
+    "XP": 0,
+    "conclusões": {
+      "3333172150": 0,
+      "2693136600": 0,
+      "119944200": 0,
+      "3089205900": 0,
+      "809170886": 0,
+      "417231112": 0,
+      "3213556450": 0,
+      "2122313384": 0,
+      "548750096": 0
+    },
+    "Pvp": {
+      "kills": 0.0,
+      "efficiency": 0.0,
+      "killsDeathsRatio": 0.0,
+      "precisionKills": 0.0,
+      "longestKillSpree": 0.0,
+      "activitiesWon": 0.0
+    },
+    "Raid": {
+      "kills": 0.0,
+      "efficiency": 0.0,
+      "longestSingleLife": 0.0,
+      "precisionKills": 0.0,
+      "longestKillSpree": 0.0
+    },
+    "Assaltos": {
+      "activitiesCleared": 0.0,
+      "fastestCompletionMs": 0.0,
+      "score": 0.0,
+      "longestKillSpree": 0.0
+    },
+    "AllPve": {
+      "heroicPublicEventsCompleted": 0.0
+    },
+    "Gambit": {
+      "kills": 0.0,
+      "efficiency": 0.0,
+      "winLossRatio": 0.0,
+      "precisionKills": 0.0,
+      "invasionKills": 0.0,
+      "invaderKills": 0.0,
+      "motesDeposited": 0.0
+    },
+    "TriunfosConcluídos": {
+      "4177910003": false,
+      "2648109757": false,
+      "1558682416": false,
+      "2422246593": false,
+      "2472579457": false,
+      "2422246592": false,
+      "851701008": false,
+      "1290451257": false,
+      "866465097": false,
+      "807845972": false,
+      "2182090828": false,
+      "2053985130": false,
+      "1883929036": false,
+      "2254764897": false,
+      "1754983323": false,
+      "1313291220": false,
+      "3369119720": false,
+      "3798931976": false,
+      "1693645129": false,
+      "2757681677": false,
+      "709854835": false,
+      "915055151": false,
+      "720205407": false,
+      "4239853304": false,
+      "2422246601": false,
+      "3798685639": false,
+      "2918198318": false,
+      "1783003007": false,
+      "1861568610": false,
+      "4109457230": false
+    }
+  }
+]

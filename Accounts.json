@@ -1,0 +1,91 @@
+[
+  {
+    "lastmsg": 0,
+    "cargo": "🐲",
+    "Characterid": [
+      2305843009290317644,
+      2305843009261947854,
+      2305843009292134035,
+      2305843009276775517
+    ],
+    "DisplayName": "BrenoSlaz",
+    "BungieID": 4611686018443840502,
+    "DiscordID": 247810854580518912,
+    "PontosdeTriunfos": 67500,
+    "EstadodeAcao": 1,
+    "XP": 463,
+    "conclusões": {
+      "3333172150": 25,
+      "2693136600": 37,
+      "119944200": 27,
+      "3089205900": 42,
+      "809170886": 12,
+      "417231112": 11,
+      "3213556450": 3,
+      "2122313384": 26,
+      "548750096": 19
+    },
+    "Pvp": {
+      "kills": 11690.0,
+      "efficiency": 5.15,
+      "killsDeathsRatio": 3.83,
+      "precisionKills": 2699.0,
+      "longestKillSpree": 43.0
+    },
+    "Raid": {
+      "kills": 89573.0,
+      "efficiency": 49.04,
+      "longestSingleLife": 9312.0,
+      "precisionKills": 20171.0,
+      "longestKillSpree": 449.0
+    },
+    "Assaltos": {
+      "activitiesCleared": 466.0,
+      "fastestCompletionMs": 5.88,
+      "score": 3920248.0,
+      "longestKillSpree": 708.0
+    },
+    "AllPve": {
+      "heroicPublicEventsCompleted": 798.0
+    },
+    "Gambit": {
+      "kills": 9799.0,
+      "efficiency": 35.699999999999996,
+      "winLossRatio": 2.4000000000000004,
+      "precisionKills": 2493.0,
+      "invasionKills": 283.0,
+      "invaderKills": 271.0,
+      "motesDeposited": 8501.0
+    },
+    "TriunfosConcluídos": {
+      "4177910003": true,
+      "2648109757": false,
+      "1558682416": true,
+      "2422246593": false,
+      "2472579457": false,
+      "2422246592": false,
+      "851701008": true,
+      "1290451257": false,
+      "866465097": false,
+      "807845972": true,
+      "2182090828": true,
+      "2053985130": false,
+      "1883929036": true,
+      "2254764897": false,
+      "1754983323": true,
+      "1313291220": false,
+      "3369119720": false,
+      "3798931976": false,
+      "1693645129": true,
+      "2757681677": true,
+      "709854835": true,
+      "915055151": true,
+      "720205407": true,
+      "4239853304": false,
+      "2422246601": false,
+      "3798685639": false,
+      "2918198318": true,
+      "1783003007": false
+    }
+  }
+]
